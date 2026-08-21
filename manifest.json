@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "sails": [
+    {
+      "id": "remote_geometric_grid",
+      "name": "Grade Geométrica",
+      "file": "sails/geometric_grid.png",
+      "sha256": "bff8beb63594dfb250d712b5a9dea104d5905fddfe3287ea0c001d31040606b6"
+    },
+    {
+      "id": "remote_nordic_pattern",
+      "name": "Padrão Nórdico",
+      "file": "sails/nordic_pattern.png",
+      "sha256": "47237a2d3a754ab3189a63d04e8a008f9a8821c4f56614253937326825cbb40f"
+    },
+    {
+      "id": "remote_plain_sail",
+      "name": "Vela Clara",
+      "file": "sails/plain_sail.png",
+      "sha256": "1cc3cf81f321c5ee9606cb577a2d7246b25d3271223c5783afd89ebdc181d839"
+    },
+    {
+      "id": "remote_raven_banner",
+      "name": "Estandarte do Corvo",
+      "file": "sails/raven_banner.png",
+      "sha256": "a85bfbe00b7b7a015ad30a142bbc4fa3ab374fc836691ad84ac7f5fba70aa18c"
+    },
+    {
+      "id": "remote_rune_row",
+      "name": "Fileira de Runas",
+      "file": "sails/rune_row.png",
+      "sha256": "2511ef59bc47e7e25d1fcde90935bb818ea9a85c3679a1cc336e43a6eff149a2"
+    },
+    {
+      "id": "remote_skull_banner",
+      "name": "Estandarte da Caveira",
+      "file": "sails/skull_banner.png",
+      "sha256": "91316a61dd7ac7c84d4b5e563d7202c03a2748b6df1402060c1d666ffed15e92"
+    },
+    {
+      "id": "remote_viking_valknut",
+      "name": "Valknut Viking",
+      "file": "sails/viking_valknut.png",
+      "sha256": "8eb07cb1b52e4434bbdca6b2467d44419e91513af39804b36d0c80e431e9e40c"
+    }
+  ]
+}

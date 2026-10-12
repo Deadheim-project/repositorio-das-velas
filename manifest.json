@@ -42,6 +42,12 @@
       "name": "Valknut Viking",
       "file": "sails/viking_valknut.png",
       "sha256": "8eb07cb1b52e4434bbdca6b2467d44419e91513af39804b36d0c80e431e9e40c"
+    },
+    {
+      "id": "remote_vampetasso",
+      "name": "Vampetasso",
+      "file": "sails/vampetasso.jpg",
+      "sha256": "104f5c033bbb4aec43452eb9433363dfac2acc11470738cc972a78242073aff2"
     }
   ]
 }

@@ -48,6 +48,12 @@
       "name": "Vampetasso",
       "file": "sails/vampetasso.jpg",
       "sha256": "104f5c033bbb4aec43452eb9433363dfac2acc11470738cc972a78242073aff2"
+    },
+    {
+      "id": "remote_anormais",
+      "name": "Anormais",
+      "file": "sails/Estandarte_Nordico_Anormais_em_Runas.png",
+      "sha256": "e582fbccbcf8adbfa77efb24da497d2ecf279358d48ba8badcb3abe91e74f0f2"
     }
   ]
 }
